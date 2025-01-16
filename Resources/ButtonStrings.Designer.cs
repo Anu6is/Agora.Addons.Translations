@@ -205,6 +205,15 @@ namespace Agora.Addons.Translations.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Custom Bid.
+        /// </summary>
+        internal static string Custom_Bid {
+            get {
+                return ResourceManager.GetString("Custom Bid", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Decrease.
         /// </summary>
         internal static string Decrease {
@@ -345,6 +354,15 @@ namespace Agora.Addons.Translations.Resources {
         internal static string Entry_Fees {
             get {
                 return ResourceManager.GetString("Entry Fees", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Extend.
+        /// </summary>
+        internal static string Extend {
+            get {
+                return ResourceManager.GetString("Extend", resourceCulture);
             }
         }
         
@@ -700,6 +718,15 @@ namespace Agora.Addons.Translations.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Undo Bid.
+        /// </summary>
+        internal static string Undo_Bid {
+            get {
+                return ResourceManager.GetString("Undo Bid", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Update.
         /// </summary>
         internal static string Update {
@@ -732,6 +759,15 @@ namespace Agora.Addons.Translations.Resources {
         internal static string View_Settings {
             get {
                 return ResourceManager.GetString("View Settings", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Withdraw.
+        /// </summary>
+        internal static string Withdraw {
+            get {
+                return ResourceManager.GetString("Withdraw", resourceCulture);
             }
         }
     }

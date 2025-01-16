@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -118,124 +118,124 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Accept Current Bid" xml:space="preserve">
-    <value>Accept Current Bid</value>
+    <value>Aktuelles Gebot annehmen</value>
   </data>
   <data name="Accept Current Offer" xml:space="preserve">
-    <value>Accept Current Offer</value>
+    <value>Aktuelles Angebot annehmen</value>
   </data>
   <data name="Accept Offer" xml:space="preserve">
-    <value>Accept Offer</value>
+    <value>Angebot annehmen</value>
   </data>
   <data name="Accept Trade Offer" xml:space="preserve">
-    <value>Accept Trade Offer</value>
+    <value>Handelsangebot annehmen</value>
   </data>
   <data name="Add Category" xml:space="preserve">
-    <value>Add Category</value>
+    <value>Kategorie hinzufügen</value>
   </data>
   <data name="Add Subcategory" xml:space="preserve">
-    <value>Add Subcategory</value>
+    <value>Unterkategorie hinzufügen</value>
   </data>
   <data name="Attach Logs" xml:space="preserve">
-    <value>Attach Logs</value>
+    <value>Logs anhängen</value>
   </data>
   <data name="Back" xml:space="preserve">
-    <value>Back</value>
+    <value>Zurück</value>
   </data>
   <data name="Back to Categories" xml:space="preserve">
-    <value>Back to Categories</value>
+    <value>Zurück zu Kategorien</value>
   </data>
   <data name="Broker Fees" xml:space="preserve">
-    <value>Broker Fees</value>
+    <value>Vermittlergebühren</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Abbruch</value>
   </data>
   <data name="Close" xml:space="preserve">
-    <value>Close</value>
+    <value>Schließen</value>
   </data>
   <data name="Closes At" xml:space="preserve">
-    <value>Closes At</value>
+    <value>Schließen Um</value>
   </data>
   <data name="Confirm This Purchase" xml:space="preserve">
-    <value>Confirm This Purchase</value>
+    <value>Kauf bestätigen</value>
   </data>
   <data name="Confirm This Sale" xml:space="preserve">
-    <value>Confirm This Sale</value>
+    <value>Verkauf bestätigen</value>
   </data>
   <data name="Continue" xml:space="preserve">
-    <value>Continue</value>
+    <value>Fortsetzen</value>
   </data>
   <data name="Custom Bid" xml:space="preserve">
-    <value>Custom Bid</value>
+    <value>Benutzerdefiniertes Gebot</value>
   </data>
   <data name="Decrease" xml:space="preserve">
-    <value>Decrease</value>
+    <value>Reduzieren</value>
   </data>
   <data name="Default Balance" xml:space="preserve">
-    <value>Default Balance</value>
+    <value>Standard Währung</value>
   </data>
   <data name="Default Minimum Bid Limit" xml:space="preserve">
-    <value>Default Minimum Bid Limit</value>
+    <value>Standard Mindestgebotslimit</value>
   </data>
   <data name="Default to" xml:space="preserve">
-    <value>Default to</value>
+    <value>Standardmäßig auf</value>
   </data>
   <data name="Delete" xml:space="preserve">
-    <value>Delete</value>
+    <value>Löschen</value>
   </data>
   <data name="Disable" xml:space="preserve">
-    <value>Disable</value>
+    <value>Deaktivieren</value>
   </data>
   <data name="Disable Entry Fees" xml:space="preserve">
-    <value>Disable Entry Fees</value>
+    <value>Teilnahmegebühr deaktivieren</value>
   </data>
   <data name="Donations" xml:space="preserve">
-    <value>Donations</value>
+    <value>Spenden</value>
   </data>
   <data name="Early Acceptance" xml:space="preserve">
-    <value>Early Acceptance</value>
+    <value>Frühzeitige Annahme</value>
   </data>
   <data name="Edit" xml:space="preserve">
-    <value>Edit</value>
+    <value>Editieren</value>
   </data>
   <data name="Edit Details" xml:space="preserve">
-    <value>Edit Details</value>
+    <value>Details editieren</value>
   </data>
   <data name="Edit Item" xml:space="preserve">
-    <value>Edit Item</value>
+    <value>Gegenstand editieren</value>
   </data>
   <data name="Edit Listing" xml:space="preserve">
-    <value>Edit Listing</value>
+    <value>Eintrag editieren</value>
   </data>
   <data name="Enable" xml:space="preserve">
-    <value>Enable</value>
+    <value>Aktivieren</value>
   </data>
   <data name="Enable Entry Fees" xml:space="preserve">
-    <value>Enable Entry Fees</value>
+    <value>Teilnahmegebühr aktivieren</value>
   </data>
   <data name="Entry Fees" xml:space="preserve">
-    <value>Entry Fees</value>
+    <value>Teilnahmegebühr</value>
   </data>
   <data name="Extend" xml:space="preserve">
-    <value>Extend</value>
+    <value>Verlängern</value>
   </data>
   <data name="Format" xml:space="preserve">
     <value>Format</value>
   </data>
   <data name="Highest Bid" xml:space="preserve">
-    <value>Highest Bid</value>
+    <value>Höchstgebot</value>
   </data>
   <data name="Increase" xml:space="preserve">
-    <value>Increase</value>
+    <value>Erhöhen</value>
   </data>
   <data name="Inline Results" xml:space="preserve">
-    <value>Inline Results</value>
+    <value>Inline Ergebnisse</value>
   </data>
   <data name="Left Align" xml:space="preserve">
-    <value>Left Align</value>
+    <value>Linksbündig</value>
   </data>
   <data name="Listing Fees" xml:space="preserve">
-    <value>Listing Fees</value>
+    <value>Auktionsgebühren</value>
   </data>
   <data name="Max" xml:space="preserve">
     <value>Max</value>
@@ -244,114 +244,114 @@
     <value>Min</value>
   </data>
   <data name="Min Bid Button" xml:space="preserve">
-    <value>Min Bid Button</value>
+    <value>Mind. Gebots Knopf</value>
   </data>
   <data name="Negotiate Offer" xml:space="preserve">
-    <value>Negotiate Offer</value>
+    <value>Angebot verhandeln</value>
   </data>
   <data name="Next" xml:space="preserve">
-    <value>Next</value>
+    <value>Nächste</value>
   </data>
   <data name="Opens At" xml:space="preserve">
-    <value>Opens At</value>
+    <value>Startet Um</value>
   </data>
   <data name="Permissions" xml:space="preserve">
-    <value>Permissions</value>
+    <value>Berechtigungen</value>
   </data>
   <data name="Preview" xml:space="preserve">
-    <value>Preview</value>
+    <value>Vorschau</value>
   </data>
   <data name="Recall Listings" xml:space="preserve">
-    <value>Recall Listings</value>
+    <value>Einträge zurücknehmen</value>
   </data>
   <data name="Register" xml:space="preserve">
-    <value>Register</value>
+    <value>Anmelden</value>
   </data>
   <data name="Reject Offer" xml:space="preserve">
-    <value>Reject Offer</value>
+    <value>Angebot ablehnen</value>
   </data>
   <data name="Remove Auction Listing" xml:space="preserve">
-    <value>Remove Auction Listing</value>
+    <value>Auktionseintrag entfernen</value>
   </data>
   <data name="Remove Category" xml:space="preserve">
-    <value>Remove Category</value>
+    <value>Kategorie entfernen</value>
   </data>
   <data name="Remove Channel" xml:space="preserve">
-    <value>Remove Channel</value>
+    <value>Kanal entfernen</value>
   </data>
   <data name="Remove Default Balance" xml:space="preserve">
-    <value>Remove Default Balance</value>
+    <value>Standardwährung entfernen</value>
   </data>
   <data name="Remove Market Listing" xml:space="preserve">
-    <value>Remove Market Listing</value>
+    <value>Markteintrag entfernen</value>
   </data>
   <data name="Remove Room" xml:space="preserve">
-    <value>Remove Room</value>
+    <value>Raum entfernen</value>
   </data>
   <data name="Remove Subcategory" xml:space="preserve">
-    <value>Remove Subcategory</value>
+    <value>Unterkategorie entfernen</value>
   </data>
   <data name="Remove Trade Listing" xml:space="preserve">
-    <value>Remove Trade Listing</value>
+    <value>Tauscheintrag entfernen</value>
   </data>
   <data name="Reset" xml:space="preserve">
-    <value>Reset</value>
+    <value>Zurücksetzen</value>
   </data>
   <data name="Right Align" xml:space="preserve">
-    <value>Right Align</value>
+    <value>Rechtsbündig</value>
   </data>
   <data name="Save" xml:space="preserve">
-    <value>Save</value>
+    <value>Speichern</value>
   </data>
   <data name="Sealed Payout" xml:space="preserve">
-    <value>Sealed Payout</value>
+    <value>Geschlossene Auszahlung</value>
   </data>
   <data name="Second Highest" xml:space="preserve">
-    <value>Second Highest</value>
+    <value>Zweithöchste</value>
   </data>
   <data name="Set Default" xml:space="preserve">
-    <value>Set Default</value>
+    <value>Standard festlegen</value>
   </data>
   <data name="Set Default Balance" xml:space="preserve">
-    <value>Set Default Balance</value>
+    <value>Standardwährung festlegen</value>
   </data>
   <data name="Set Duration Limits" xml:space="preserve">
-    <value>Set Duration Limits</value>
+    <value>Limitierungen für Dauer festlegen</value>
   </data>
   <data name="Set Listing Limits" xml:space="preserve">
-    <value>Set Listing Limits</value>
+    <value>Limitierungen für Einträge festlegen</value>
   </data>
   <data name="Shill Bidding" xml:space="preserve">
-    <value>Shill Bidding</value>
+    <value>Gebotstreiberei</value>
   </data>
   <data name="Submit Bot Review" xml:space="preserve">
-    <value>Submit Bot Review</value>
+    <value>Bot Bewerten</value>
   </data>
   <data name="Support Server" xml:space="preserve">
-    <value>Support Server</value>
+    <value>Server Unterstützen</value>
   </data>
   <data name="Toggle" xml:space="preserve">
-    <value>Toggle</value>
+    <value>Schalter</value>
   </data>
   <data name="Transaction Confirmation" xml:space="preserve">
-    <value>Transaction Confirmation</value>
+    <value>Transaktion Bestätigen</value>
   </data>
   <data name="Undo Bid" xml:space="preserve">
-    <value>Undo Bid</value>
+    <value>Gebot rückgängig machen</value>
   </data>
   <data name="Update" xml:space="preserve">
-    <value>Update</value>
+    <value>Aktualisierung</value>
   </data>
   <data name="Update Hours" xml:space="preserve">
-    <value>Update Hours</value>
+    <value>Stunden aktualisieren</value>
   </data>
   <data name="View Item" xml:space="preserve">
-    <value>View Item</value>
+    <value>Gegenstand ansehen</value>
   </data>
   <data name="View Settings" xml:space="preserve">
-    <value>View Settings</value>
+    <value>Einstellungen ansehen</value>
   </data>
   <data name="Withdraw" xml:space="preserve">
-    <value>Withdraw</value>
+    <value>Zurückziehen</value>
   </data>
 </root>
