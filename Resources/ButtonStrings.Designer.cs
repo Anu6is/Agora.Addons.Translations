@@ -430,11 +430,29 @@ namespace Agora.Addons.Translations.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Max Bid.
+        /// </summary>
+        internal static string Max_Bid {
+            get {
+                return ResourceManager.GetString("Max Bid", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Min.
         /// </summary>
         internal static string Min {
             get {
                 return ResourceManager.GetString("Min", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Min Bid.
+        /// </summary>
+        internal static string Min_Bid {
+            get {
+                return ResourceManager.GetString("Min Bid", resourceCulture);
             }
         }
         
