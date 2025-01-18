@@ -151,6 +151,15 @@ namespace Agora.Addons.Translations.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Buy Now.
+        /// </summary>
+        internal static string Buy_Now {
+            get {
+                return ResourceManager.GetString("Buy Now", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Cancel.
         /// </summary>
         internal static string Cancel {
